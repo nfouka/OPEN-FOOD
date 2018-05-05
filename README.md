@@ -1,4 +1,4 @@
-Open Food Facts Android Application
+SCAN HALAL Android Application
 ===================================
 
 [![Build Status](https://travis-ci.org/openfoodfacts/OpenFoodFacts-androidApp.svg?branch=master)](https://travis-ci.org/openfoodfacts/OpenFoodFacts-androidApp) [![Stories in Ready](https://badge.waffle.io/openfoodfacts/OpenFoodFacts-androidApp.svg?label=ready&title=Ready)](http://waffle.io/openfoodfacts/OpenFoodFacts-androidApp)
